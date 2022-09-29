@@ -1,0 +1,19 @@
+const NavBar = () => {
+
+    return (
+
+        <nav id="topnav">
+            <a class="active" href="#home">Home</a>
+            <a href="#recipes">Recipes</a>
+            <a href="#contact">Contact</a>
+            <a href="#about">About</a> 
+        </nav>
+
+
+    )
+
+
+
+}
+
+export default NavBar
